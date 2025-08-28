@@ -1,3 +1,7 @@
 {
+<<<<<<< HEAD
     "java.debug.settings.onBuildFailureProceed": true
+=======
+  "java.debug.settings.onBuildFailureProceed": true
+>>>>>>> d04eadc3f741ba088ff95b11a45ea5ed28c6d9c1
 }
