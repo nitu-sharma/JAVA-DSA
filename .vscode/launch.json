@@ -1,0 +1,133 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "SetMismatch",
+            "request": "launch",
+            "mainClass": "SetMismatch",
+            "projectName": "JAVA_6d4ab0"
+        },
+        {
+            "type": "java",
+            "name": "FindallDuplicate",
+            "request": "launch",
+            "mainClass": "FindallDuplicate",
+            "projectName": "JAVA_6d4ab0"
+        },
+        {
+            "type": "java",
+            "name": "duplicateElement",
+            "request": "launch",
+            "mainClass": "duplicateElement",
+            "projectName": "JAVA_6d4ab0"
+        },
+        {
+            "type": "java",
+            "name": "cyclicSort",
+            "request": "launch",
+            "mainClass": "cyclicSort",
+            "projectName": "JAVA_6d4ab0"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "HelloWorld",
+            "request": "launch",
+            "mainClass": "HelloWorld",
+            "projectName": "Java_6dc6d0"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "Main",
+            "projectName": "Java_6dc6d0"
+        },
+        {
+            "type": "java",
+            "name": "array",
+            "request": "launch",
+            "mainClass": "array",
+            "projectName": "Java_6dc6d0"
+        },
+        {
+            "type": "java",
+            "name": "condition",
+            "request": "launch",
+            "mainClass": "condition",
+            "projectName": "Java_6dc6d0"
+        },
+        {
+            "type": "java",
+            "name": "loops",
+            "request": "launch",
+            "mainClass": "loops",
+            "projectName": "Java_6dc6d0"
+        },
+        {
+            "type": "java",
+            "name": "method",
+            "request": "launch",
+            "mainClass": "method",
+            "projectName": "Java_6dc6d0"
+        },
+        {
+            "type": "java",
+            "name": "multiDarray",
+            "request": "launch",
+            "mainClass": "multiDarray",
+            "projectName": "Java_6dc6d0"
+        },
+        {
+            "type": "java",
+            "name": "practicearray",
+            "request": "launch",
+            "mainClass": "practicearray",
+            "projectName": "Java_6dc6d0"
+        },
+        {
+            "type": "java",
+            "name": "recursion",
+            "request": "launch",
+            "mainClass": "recursion",
+            "projectName": "Java_6dc6d0"
+        },
+        {
+            "type": "java",
+            "name": "star",
+            "request": "launch",
+            "mainClass": "star",
+            "projectName": "Java_6dc6d0"
+        },
+        {
+            "type": "java",
+            "name": "sum",
+            "request": "launch",
+            "mainClass": "sum",
+            "projectName": "Java_6dc6d0"
+        },
+        {
+            "type": "java",
+            "name": "variable",
+            "request": "launch",
+            "mainClass": "variable",
+            "projectName": "Java_6dc6d0"
+        },
+        {
+            "type": "java",
+            "name": "week",
+            "request": "launch",
+            "mainClass": "week",
+            "projectName": "Java_6dc6d0"
+        }
+    ]
+}
